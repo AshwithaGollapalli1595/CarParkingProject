@@ -18,7 +18,7 @@ const AdminDashboard = () => {
         {/* Navbar */}
         <Navbar
           title="Admin Dashboard"
-          user="Admin"
+          user="admin"
         />
 
         {/* Page Content */}
@@ -83,7 +83,7 @@ const AdminDashboard = () => {
 
                   <div>
                     <h3 className="font-semibold text-gray-700">
-                      Ashwi
+                      Ashwitha
                     </h3>
 
                     <p className="text-sm text-gray-500">

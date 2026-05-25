@@ -14,7 +14,7 @@ const Dashboard = () => {
         {/* Navbar */}
         <Navbar
           title="User Dashboard"
-          user="Ashwi"
+          user="Ashwitha G"
         />
 
         {/* Dashboard Content */}
